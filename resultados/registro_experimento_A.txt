@@ -1,0 +1,20 @@
+============================================================
+RESULTADOS OBLIGATORIOS - EXPERIMENTO A
+============================================================
+Archivo generado   : ../datos/original\telemetria_rendimiento_ow.csv
+Tamaño en disco    : 82.20 MB
+Número de filas    : 1,000,000
+Número de columnas : 10
+
+Tipos de datos detectados:
+match_hash                          str
+event_timestamp          datetime64[us]
+hero_played                         str
+game_mode                           str
+map_section                         str
+match_tier                          str
+server_latency_ms                 int64
+critical_hit_accuracy           float64
+healing_per_10min                 int64
+mitigated_damage                  int64
+============================================================

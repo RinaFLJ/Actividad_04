@@ -1,0 +1,10 @@
+============================================================
+RESULTADOS TÉCNICOS - EXPERIMENTO B (TIEMPO Y RAM)
+============================================================
+Estrategia: Monolítica | Tiempo: 1.53s | RAM: 174.91 MB
+Estrategia: Chunk
+50k | Tiempo: 1.60s | RAM: 100.13 MB
+Estrategia: Chunk
+100k | Tiempo: 1.62s | RAM: 16.89 MB
+Estrategia: Chunk
+200k | Tiempo: 1.66s | RAM: 25.65 MB
