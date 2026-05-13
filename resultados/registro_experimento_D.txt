@@ -1,0 +1,10 @@
+============================================================
+EXPERIMENTO D: ANÁLISIS DE FORMATO COLUMNAR Y PARTICIONES
+============================================================
+Tamaño CSV     : 82.20 MB
+Tamaño Parquet : 22.57 MB
+Reducción disco: 72.54%
+
+Tiempo lectura columna 'hero_played':
+- Desde CSV    : 0.5177 segundos
+- Desde Parquet: 0.0564 segundos

@@ -1,0 +1,13 @@
+============================================================
+EXPERIMENTO C: PROCESAMIENTO INCREMENTAL
+============================================================
+Filas totales evaluadas : 1,000,000
+Tiempo de procesamiento : 1.82 segundos
+
+Total de sanación en rangos Diamond/Master:
+hero_played
+Ana       1257006595
+Juno      1260549969
+Kiriko    1262123433
+Mercy     1255327763
+Mizuki    1258292276
